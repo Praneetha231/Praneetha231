@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi  👋
+
+- B.Tech 3rd Year Student 
+- I am currently working on Frontend and Backend 
+- Learning Java and SQL
+- Interested in learning  Cloud & DevOps 
+
 
 <!--
 **Praneetha231/Praneetha231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
