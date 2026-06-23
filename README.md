@@ -1,9 +1,14 @@
 ## Hi  👋
 
-- B.Tech 3rd Year Student 
-- I am currently working on Frontend and Backend 
-- Learning Java and SQL
-- Interested in learning  Cloud & DevOps 
+- BTech Student(2027 Graduate) 
+- Interested in Software Development, Cloud Computing and DevOps
+- Currently Learning:
+- Java
+- Data Structures & Algorithms
+- SQL
+- AWS
+- Docker
+- Jenkins
 
 
 <!--
