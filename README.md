@@ -1,27 +1,28 @@
-## Hi  👋
+# Hi 👋, I'm Praneetha Dukkipati
 
-- BTech Student(2027 Graduate) 
-- Interested in Software Development, Cloud Computing and DevOps
-- Currently Learning:
+🎓 B.Tech Computer Science Student | 2027 Graduate
+
+💻 Interested in DevOps, Cloud Computing and Software Development
+
+### Skills
 - Java
-- Data Structures & Algorithms
 - SQL
-- AWS
+- Linux
+- Git & GitHub
 - Docker
 - Jenkins
+- Kubernetes
+- AWS
 
+### Currently Learning
+- Data Structures & Algorithms
+- Java
+- AWS
+- DevOps & Cloud Technologies
 
-<!--
-**Praneetha231/Praneetha231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects
+- Automated Application Deployment Pipeline
+- Employee Salary Prediction using Machine Learning
+- AccessIQ Frontend
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 LinkedIn: [www.linkedin.com/in/praneetha-dukkipati]
